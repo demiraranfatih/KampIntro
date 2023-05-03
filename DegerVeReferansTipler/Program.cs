@@ -24,7 +24,7 @@ namespace DegerVeReferansTipler
 
             //int decimal float double bool = değer tip
             //array class interface =referans tip
-            //bellecte stack ve heap diye alanlar var sdssda
+            //bellecte stack ve heap diye alanlar var 
             //int sayi1,sayi2 dediğinde stack de gerceklesiyor
             //stackte sadece değeri aktarır
             //dizide hem stackte hem heapte alan oluşturuyor(new ile)adres tutmaya baslıyor
